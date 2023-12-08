@@ -1,11 +1,11 @@
 ﻿Board Layer Stack
 Number,Name,Type,Manufacturer,Material,Thickness (mm),Weight (oz),Dk,Df,Orientation,Copper Orientation,Description,Color,Solid (%),Frequency (GHz),GlassTransTemp (°C)
 ,Top Overlay,Overlay,,,,,,,,,,,,,
-,Top Solder,Solder Mask,Altium Designer,SM-002,0.015,,3.8,0.03,,,Solder Mask,#FF000000,1,1,125
+,Top Solder,Solder Mask,Altium Designer,SM-001,0.0254,,4,0.03,,,Solder Mask,#FF008000,1,1,125
 1,Top Layer,Signal,,,0.035,1,,,Top,Above,,,,,
 ,Dielectric 1,Dielectric,,FR-4,1.5,,4.6,,,,,,,,
 2,Bottom Layer,Signal,,,0.035,1,,,Bottom,Below,,,,,
-,Bottom Solder,Solder Mask,Altium Designer,SM-002,0.015,,3.8,0.03,,,Solder Mask,#FF000000,1,1,125
+,Bottom Solder,Solder Mask,Altium Designer,SM-001,0.0254,,4,0.03,,,Solder Mask,#FF008000,1,1,125
 ,Bottom Overlay,Overlay,,,,,,,,,,,,,
 
 
